@@ -4,7 +4,7 @@ This is a AI chat app using ChatGPT:s API.
 
 Create an account and get a api key on: [https://platform.openai.com/](https://platform.openai.com/)
 
-Create a .env file and place the key in variable "API_KEY".
+Create .env file and place the key in variable "API_KEY".
 
 ## Available Scripts
 
