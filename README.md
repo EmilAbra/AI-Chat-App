@@ -12,4 +12,4 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-Run's the AI prompt.
+Run's the AI prompt and you can ask questions.
