@@ -19,7 +19,7 @@ userInterface.on("line", async input => {
     model: "gpt-3.5-turbo",
     messages: [{"role": "user", "content": input}],
   });
-  console.log(chatCompletion.choices[0].message.content)
+  console.log(`\n${chatCompletion.choices[0].message.content}\n`)
   userInterface.prompt()
 })
 
